@@ -14,7 +14,7 @@ class handler(BaseHTTPRequestHandler):
         message = ""
     
 
-        if country:
+        if country == "alaa":
             url=""
             req_from_server_to_thired_party= requests.get(url+country)             
             data = req_from_server_to_thired_party.json()

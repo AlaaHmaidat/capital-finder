@@ -67,6 +67,5 @@ class Handler(BaseHTTPRequestHandler):
     
 
     
-# try
-# https://capital-finder-3qo9.vercel.app/api/capital-finder?country=Jordan
-# https://capital-finder-3qo9.vercel.app/api/capital-finder?capital=Amman
+
+

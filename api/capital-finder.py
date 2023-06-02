@@ -64,3 +64,9 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(message.encode('utf-8'))
         return
+    
+
+    
+# try
+# https://capital-finder-3qo9.vercel.app/api/capital-finder?country=Jordan
+# https://capital-finder-3qo9.vercel.app/api/capital-finder?capital=Amman

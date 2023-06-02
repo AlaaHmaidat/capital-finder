@@ -26,6 +26,7 @@ https://capital-finder-3qo9.vercel.app/api/capital-finder?country=Andorra
 ```
 https://capital-finder-3qo9.vercel.app/api/capital-finder?country=abc
 ```
+
 ## If capital is not found
 ```
 https://capital-finder-3qo9.vercel.app/api/capital-finder?capital=abc
